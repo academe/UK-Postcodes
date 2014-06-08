@@ -11,15 +11,32 @@ ultimately be in this set.
 Some notes on the columns:
 
 * postcode The outward part of the postcode.
-* eastings The numeric eathing value (whole metres from the false origin, up to 7 digits)
-* northings The numeric northing value (whole metres from the false origin, up to 7 digits)
+* easting The numeric eathing value (whole metres from the false origin, up to 7 digits)
+* northing The numeric northing value (whole metres from the false origin, up to 7 digits)
 * latitude The latitude angle in degrees.
 * longitude The longitude angle, in degrees.
-* town The town or city.
-* region The county or municiple region or city conurbation.
-* country The country code.
-* country_string The name of the country.
+* city The town or city.
+* county The county or municiple region or city conurbation.
+* country_code The country code - three letter.
+* country_name The name of the country.
+* iso3166-2 The ISO country code.
+* region_code The region code (non-official).
+* region_name The region name.
 
+England is divided into the following regions:
+
+*	North East
+*	North West
+*	Yorkshire and the Humber
+*	East Midlands
+*	West Midlands
+*	East of England
+*	London
+*	South East
+*	South West
+
+These are detailed here:
+http://en.wikipedia.org/wiki/Regions_of_England
 
 For the original source, see:
 http://www.dangibbs.co.uk/journal/free-uk-postcode-towns-counties-database

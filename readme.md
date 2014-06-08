@@ -40,3 +40,10 @@ http://en.wikipedia.org/wiki/Regions_of_England
 
 For the original source, see:
 http://www.dangibbs.co.uk/journal/free-uk-postcode-towns-counties-database
+
+There are many postcodes listed without a town or region. There are also some towns or cities
+that are not accurate or are ambiguous, since a postcode can span more than one town. No attempt
+is being made to clean up these two aspects at this time. My main concern was mapping cities,
+regions and postcodes to a grid reference for a job board, so people can search for jobs within
+a radius of a given point (the job seeker's postcode or town).
+

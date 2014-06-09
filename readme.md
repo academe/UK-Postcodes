@@ -38,6 +38,9 @@ England is divided into the following regions:
 These are detailed here:
 http://en.wikipedia.org/wiki/Regions_of_England
 
+From what I can tell, there are no standard or accepted codes for the regions of England,
+so those listed in uk-regions.csv and postcodes.csv should not be considered official.
+
 For the original source, see:
 http://www.dangibbs.co.uk/journal/free-uk-postcode-towns-counties-database
 

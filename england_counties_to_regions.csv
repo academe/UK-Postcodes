@@ -1,0 +1,135 @@
+county_name,county_type,region_name,region_code,population ,density,unknown,rank,
+Barnsley,,North West ,NORTHWEST,,,,,
+Bath and North East Somerset,unitary ,South West ,SOUTHWEST,"175,500",508,346,66,
+Bedford,unitary ,East of England,EAST,"157,800",331,476,72,
+Bedford Borough,,East of England,EAST,,,,,
+Birmingham,,West Midlands ,WESTMID,,,,,
+Blackburn with Darwen,unitary ,North West ,NORTHWEST,"147,700","1,078",137,77,
+Blackpool,unitary ,North West ,NORTHWEST,"142,100","4,077",35,79,
+Bolton,,North West ,NORTHWEST,,,,,
+Bournemouth,unitary ,South West ,SOUTHWEST,"183,500","3,974",46,65,
+Bracknell Forest,unitary ,South East ,SOUTHEAST,"113,700","1,039",109,86,
+Bradford,,Yorkshire and the Humber ,YORKHUMB,,,,,
+Brighton & Hove,unitary ,South East ,SOUTHEAST,"273,000","3,302",83,46,
+Brighton and Hove,,South East ,SOUTHEAST,,,,,
+Bristol,unitary ,South West ,SOUTHWEST,"428,100","3,906",110,37,
+Buckinghamshire,two-tier ,South East ,SOUTHEAST,"506,700",324,"1,565",34,
+Bury,,North West ,NORTHWEST,,,,,
+Calderdale,,Yorkshire and the Humber ,YORKHUMB,,,,,
+Cambridgeshire,two-tier ,East of England,EAST,"622,200",204,"3,046",25,
+Central Bedfordshire,unitary ,East of England,EAST,"255,600",357,716,51,
+Cheshire East,unitary ,North West ,NORTHWEST,"370,700",318,"1,166",39,
+Cheshire West and Chester,unitary ,North West ,NORTHWEST,"329,500",359,917,42,
+City of Bristol,,South West ,SOUTHWEST,,,,,
+City of Kingston-upon-Hull,,Yorkshire and the Humber ,YORKHUMB,,,,,
+City of London,,London,LONDON,,,,,
+Cornwall,unitary ,South West ,SOUTHWEST,"533,800",151,"3,546",30,
+County Durham,unitary ,North East ,NORTHEAST,"513,000",230,"2,226",33,
+County of Herefordshire,,West Midlands ,WESTMID,,,,,
+Coventry,,East Midlands ,EASTMID,,,,,
+Cumbria,two-tier ,North West ,NORTHWEST,"499,800",74,"6,767",35,
+Darlington,unitary ,North East ,NORTHEAST,"105,600",535,197,87,
+Derby,unitary ,East Midlands ,EASTMID,"248,900","3,190",78,53,
+Derbyshire,two-tier ,East Midlands ,EASTMID,"770,600",303,"2,547",18,
+Devon,two-tier ,South West ,SOUTHWEST,"747,900",114,"6,564",19,
+Doncaster,,Yorkshire and the Humber ,YORKHUMB,,,,,
+Dorset,two-tier ,South West ,SOUTHWEST,"413,800",163,"2,542",38,
+Dudley,,West Midlands ,WESTMID,,,,,
+East Riding of Yorkshire,unitary ,Yorkshire and the Humber ,YORKHUMB,"334,700",139,"2,408",40,
+East Sussex,two-tier ,South East ,SOUTHEAST,"527,200",308,"1,709",32,
+Essex,two-tier ,East of England,EAST,"1,396,600",403,"3,464",6,
+Gateshead,,North East ,NORTHEAST,,,,,
+Gloucestershire,two-tier ,South West ,SOUTHWEST,"598,300",226,"2,653",27,
+Greater London,administrative area ,London ,LONDON,"8,196,700","5,223","1,569",1,
+Greater Manchester,metropolitan county ,North West ,NORTHWEST,"2,685,400","2,105","1,276",3,
+Halton,unitary ,North West ,NORTHWEST,"125,700","1,589",79,85,
+Hampshire,two-tier ,South East ,SOUTHEAST,"1,322,300",359,"3,679",9,
+Hartlepool,unitary ,North East ,NORTHEAST,"92,100",981,94,88,
+Herefordshire,unitary ,West Midlands ,WESTMID,"183,600",84,"2,180",64,
+Hertford,,East of England,EAST,,,,,
+Hertfordshire,two-tier ,East of England,EAST,"1,119,800",682,"1,643",12,
+Hull,unitary ,Yorkshire and the Humber ,YORKHUMB,"256,100","3,584",71,50,
+Isle of Wight,unitary ,South East ,SOUTHEAST,"138,400",364,380,82,
+Isles of Scilly,unitary ,South West ,SOUTHWEST,"2,200",134,16,90,
+Kent,two-tier ,South East ,SOUTHEAST,"1,466,500",413,"3,544",5,
+Kirklees,,Yorkshire and the Humber ,YORKHUMB,,,,,
+Knowsley,,North West ,NORTHWEST,,,,,
+Lancashire,two-tier ,North West ,NORTHWEST,"1,171,600",404,"2,903",10,
+Leeds,,Yorkshire and the Humber ,YORKHUMB,,,,,
+Leicester,unitary ,East Midlands ,EASTMID,"329,600","4,494",73,41,
+Leicestershire,two-tier ,East Midlands ,EASTMID,"651,200",313,"2,083",24,
+Lincolnshire,two-tier ,East Midlands ,EASTMID,"714,800",121,"5,921",21,
+Liverpool,,North West ,NORTHWEST,,,,,
+London,,London,LONDON,,,,,
+Luton,unitary ,East of England,EAST,"203,600","4,696",43,58,
+Medway,unitary ,South East ,SOUTHEAST,"264,900","1,379",192,47,
+Merseyside,metropolitan county ,North West ,NORTHWEST,"1,380,800","2,141",645,7,Merseyside
+Middlesbrough,unitary ,North East ,NORTHEAST,"138,400","2,569",54,81,Middlesbrough
+Milton Keynes,unitary ,South East ,SOUTHEAST,"249,900",810,309,52,Milton Keynes
+Newcastle Upon Tyne,,North East ,NORTHEAST,,,,,Newcastle Upon Tyne
+Norfolk,two-tier ,East of England,EAST,"859,400",160,"5,371",14,Norfolk
+North East Lincolnshire,unitary ,Yorkshire and the Humber ,YORKHUMB,"159,700",832,192,70,North East Lincolnshire
+North Lincolnshire,unitary ,Yorkshire and the Humber ,YORKHUMB,"167,500",198,846,68,North Lincolnshire
+North Somerset,unitary ,South West ,SOUTHWEST,"203,100",543,374,59,North Somerset
+North Tyneside,,North East ,NORTHEAST,,,,,North Tyneside
+North Yorkshire,two-tier ,Yorkshire and the Humber ,YORKHUMB,"601,200",75,"8,038",26,North Yorkshire
+Northamptonshire,two-tier ,East Midlands ,EASTMID,"693,900",294,"2,364",22,Northamptonshire
+Northumberland,unitary ,North East ,NORTHEAST,"316,300",63,"5,013",43,Northumberland
+Nottingham,unitary ,East Midlands ,EASTMID,"303,900","4,073",75,45,Nottingham
+Nottinghamshire,two-tier ,East Midlands ,EASTMID,"786,700",377,"2,085",17,Nottinghamshire
+Oldham,,North West ,NORTHWEST,,,,,Oldham
+Oxfordshire,two-tier ,South East ,SOUTHEAST,"654,800",251,"2,605",23,Oxfordshire
+Peterborough,unitary ,East of England,EAST,"184,500",537,343,63,Peterborough
+Plymouth,unitary ,South West ,SOUTHWEST,"256,600","3,216",80,49,Plymouth
+Poole,unitary ,South West ,SOUTHWEST,"148,100","2,287",65,76,Poole
+Portsmouth,unitary ,South East ,SOUTHEAST,"205,400","5,089",40,57,Portsmouth
+Reading,unitary ,South East ,SOUTHEAST,"155,300","3,844",40,73,Reading
+Redcar and Cleveland,unitary ,North East ,NORTHEAST,"135,200",552,245,83,Redcar and Cleveland
+Rochdale,,North West ,NORTHWEST,,,,,Rochdale
+Rotherham,,Yorkshire and the Humber ,YORKHUMB,,,,,Rotherham
+Rutland,unitary ,East Midlands ,EASTMID,"37,600",99,382,89,Rutland
+Salford,,North West ,NORTHWEST,,,,,Salford
+Sandwell,,West Midlands ,WESTMID,,,,,Sandwell
+Sefton,,North West ,NORTHWEST,,,,,Sefton
+Sheffield,,Yorkshire and the Humber ,YORKHUMB,,,,,Sheffield
+Shropshire,unitary ,West Midlands ,WESTMID,"307,100",96,"3,197",44,Shropshire
+Slough,unitary ,South East ,SOUTHEAST,"140,700","4,323",33,80,Slough
+Solihull,,West Midlands ,WESTMID,,,,,Solihull
+Somerset,two-tier ,South West ,SOUTHWEST,"531,600",154,"3,451",31,Somerset
+South Gloucestershire,unitary ,South West ,SOUTHWEST,"263,400",530,497,48,South Gloucestershire
+South Tyneside,,North East ,NORTHEAST,,,,,South Tyneside
+South Yorkshire,metropolitan county ,Yorkshire and the Humber ,YORKHUMB,"1,343,900",866,"1,552",8,South Yorkshire
+Southampton,unitary ,South East ,SOUTHEAST,"235,900","4,733",50,55,Southampton
+Southend-on-Sea,unitary ,East of England,EAST,"174,300","4,174",42,67,Southend-on-Sea
+St Helens,,North West ,NORTHWEST,,,,,St Helens
+Staffordshire,two-tier ,West Midlands ,WESTMID,"849,600",324,"2,620",15,Staffordshire
+Stockport,,North West ,NORTHWEST,,,,,Stockport
+Stockton-on-Tees,unitary ,North East ,NORTHEAST,"191,800",941,204,62,Stockton-on-Tees
+Stoke-on-Trent,unitary ,West Midlands ,WESTMID,"248,700","2,661",93,54,Stoke-on-Trent
+Suffolk,two-tier ,East of England,EAST,"730,100",192,"3,800",20,Suffolk
+Sunderland,,North East ,NORTHEAST,,,,,Sunderland
+Surrey,two-tier ,South East ,SOUTHEAST,"1,135,500",683,"1,663",11,Surrey
+Swindon,unitary ,South West ,SOUTHWEST,"209,700",911,230,56,Swindon
+Tameside,,North West ,NORTHWEST,,,,,Tameside
+Telford and Wrekin,unitary ,West Midlands ,WESTMID,"166,800",575,290,69,Telford and Wrekin
+Thurrock,unitary ,East of England,EAST,"158,300",969,163,71,Thurrock
+Torbay,unitary ,South West ,SOUTHWEST,"131,200","2,086",63,84,Torbay
+Trafford,,North West ,NORTHWEST,,,,,Trafford
+Tyne and Wear,metropolitan county ,North East ,NORTHEAST,"1,104,100","2,044",540,13,Tyne and Wear
+Wakefield,,Yorkshire and the Humber ,YORKHUMB,,,,,Wakefield
+Walsall,,West Midlands ,WESTMID,,,,,Walsall
+Warrington,unitary ,North West ,NORTHWEST,"202,700","1,122",181,60,Warrington
+Warwickshire,two-tier ,West Midlands ,WESTMID,"546,500",277,"1,975",29,Warwickshire
+West Berkshire,unitary ,South East ,SOUTHEAST,"154,100",219,704,75,West Berkshire
+West Midlands,metropolitan county ,West Midlands ,WESTMID,"2,739,800","3,039",902,2,West Midlands
+West Sussex,two-tier ,South East ,SOUTHEAST,"808,900",406,"1,990",16,West Sussex
+West Yorkshire,metropolitan county ,Yorkshire and the Humber ,YORKHUMB,"2,227,400","1,098","2,029",4,West Yorkshire
+Wigan,,North West ,NORTHWEST,,,,,Wigan
+Wiltshire,unitary ,South West ,SOUTHWEST,"474,300",146,"3,255",36,Wiltshire
+Windsor and Maidenhead,unitary ,South East ,SOUTHEAST,"145,100",738,197,78,Windsor and Maidenhead
+Wirral,,North West ,NORTHWEST,,,,,Wirral
+Wokingham,unitary ,South East ,SOUTHEAST,"154,900",866,179,74,Wokingham
+Wolverhampton,,West Midlands ,WESTMID,,,,,Wolverhampton
+Worcester,,West Midlands ,WESTMID,,,,,Worcester
+Worcestershire,two-tier ,West Midlands ,WESTMID,"566,500",325,"1,741",28,Worcestershire
+York,unitary ,Yorkshire and the Humber ,YORKHUMB,"197,800",727,272,61,York

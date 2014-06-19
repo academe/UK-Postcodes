@@ -5,7 +5,7 @@ This repository contains a CSV of UK postal out codes. It contains some mappings
 regions that were not on the original.
 
 It is not clear whether the Latitude and Longitude coordinates use the Airy or the WSG85 Ellipsoid
-and datum. An action to find out and make it clear as necessary. TRhe WSG85 coordinates will
+and datum. An action to find out and make it clear as necessary. The WSG85 coordinates will
 ultimately be in this set.
 
 Some notes on the columns:

@@ -1,7 +1,197 @@
 iso_code,chapman_code,Name,osgb_cty,country_region,notes
+GB-BDG,,Barking and Dagenham,LBO,GB-ENG,
+GB-BNE,,Barnet,LBO,GB-ENG,
+GB-BNS,,Barnsley,MTD,GB-ENG,South Yorkshire district
+GB-BAS,,Bath and North East Somerset,UTA,GB-ENG,
+GB-BDF,BDF,Bedford,UTA,GB-ENG,aka Bedfordshire
+,BRK,Berkshire,,GB-ENG,Historic
+GB-BEX,,Bexley,LBO,GB-ENG,
+GB-BIR,,Birmingham,MTD,GB-ENG,West Midlands district
+GB-BBD,,Blackburn with Darwen,UTA,GB-ENG,
+GB-BPL,,Blackpool,UTA,GB-ENG,
+GB-BOL,,Bolton,MTD,GB-ENG,Greater Manchester district
+GB-BMH,,Bournemouth,UTA,GB-ENG,
+GB-BRC,,Bracknell Forest,UTA,GB-ENG,
+GB-BRD,,Bradford,MTD,GB-ENG,West Yorkshire district
+GB-BEN,,Brent,LBO,GB-ENG,
+GB-BNH,,Brighton and Hove,UTA,GB-ENG,
+GB-BST,,"Bristol, City of",UTA,GB-ENG,
+GB-BRY,,Bromley,LBO,GB-ENG,
+GB-BKM,,Buckinghamshire,CTY,GB-ENG,
+GB-BUR,,Bury,MTD,GB-ENG,Greater Manchester district
+GB-CLD,,Calderdale,MTD,GB-ENG,West Yorkshire district
+GB-CAM,CAM,Cambridgeshire,CTY,GB-ENG,
+GB-CMD,,Camden,LBO,GB-ENG,
+GB-CBF,,Central Bedfordshire,UTA,GB-ENG,
+,CHS,Cheshire,,GB-ENG,Historic; was GB-CHS
+GB-CHE,,Cheshire East,UTA,GB-ENG,
+GB-CHW,,Cheshire West and Chester,UTA,GB-ENG,
+GB-CON,CON,Cornwall,UTA,GB-ENG,
+GB-COV,,Coventry,MTD,GB-ENG,West Midlands district
+GB-CRY,,Croydon,LBO,GB-ENG,
+,CUL,Cumberland,,GB-ENG,Historic
+GB-CMA,,Cumbria,CTY,GB-ENG,
+GB-DAL,,Darlington,UTA,GB-ENG,
+GB-DER,,Derby,UTA,GB-ENG,
+GB-DBY,DBY,Derbyshire,CTY,GB-ENG,
+GB-DEV,DEV,Devon,CTY,GB-ENG,
+GB-DNC,,Doncaster,MTD,GB-ENG,South Yorkshire district
+GB-DOR,DOR,Dorset,CTY,GB-ENG,
+GB-DUD,,Dudley,MTD,GB-ENG,West Midlands district
+GB-DUR,DUR,Durham,UTA,GB-ENG,aka County Durham
+GB-EAL,,Ealing,LBO,GB-ENG,
+GB-ERY,ERY,East Riding of Yorkshire,UTA,GB-ENG,
+GB-ESX,,East Sussex,CTY,GB-ENG,
+GB-ENF,,Enfield,LBO,GB-ENG,
+GB-ESS,ESS,Essex,CTY,GB-ENG,
+GB-GAT,,Gateshead,MTD,GB-ENG,Tyne & Wear district
+GB-GLS,GLS,Gloucestershire,CTY,GB-ENG,
+GB-GRE,,Greenwich,LBO,GB-ENG,
+GB-HCK,,Hackney,LBO,GB-ENG,
+GB-HAL,,Halton,UTA,GB-ENG,
+GB-HMF,,Hammersmith and Fulham,LBO,GB-ENG,
+GB-HAM,HAM,Hampshire,CTY,GB-ENG,
+GB-HRY,,Haringey,LBO,GB-ENG,
+GB-HRW,,Harrow,LBO,GB-ENG,
+GB-HPL,,Hartlepool,UTA,GB-ENG,
+GB-HAV,,Havering,LBO,GB-ENG,
+GB-HEF,HEF,Herefordshire,UTA,GB-ENG,
+GB-HRT,HRT,Hertfordshire,CTY,GB-ENG,
+GB-HIL,,Hillingdon,LBO,GB-ENG,
+GB-HNS,,Hounslow,LBO,GB-ENG,
+,HUN,Huntingdonshire,,GB-ENG,Historic
+GB-IOW,IOW,Isle of Wight,UTA,GB-ENG,
+GB-IOS,IOS,Isles of Scilly,,GB-ENG,Historic; special area
+GB-ISL,,Islington,LBO,GB-ENG,
+GB-KEC,,Kensington and Chelsea,LBO,GB-ENG,
+GB-KEN,KEN,Kent,CTY,GB-ENG,
+GB-KHL,,Kingston upon Hull,UTA,GB-ENG,
+GB-KTT,,Kingston upon Thames,LBO,GB-ENG,
+GB-KIR,,Kirklees,MTD,GB-ENG,West Yorkshire district
+GB-KWL,,Knowsley,MTD,GB-ENG,Merseyside district
+GB-LBH,,Lambeth,LBO,GB-ENG,
+GB-LAN,LAN,Lancashire,CTY,GB-ENG,
+GB-LDS,,Leeds,MTD,GB-ENG,West Yorkshire district
+GB-LCE,,Leicester,UTA,GB-ENG,
+GB-LEC,LEC,Leicestershire,CTY,GB-ENG,
+GB-LEW,,Lewisham,LBO,GB-ENG,
+GB-LIN,LIN,Lincolnshire,CTY,GB-ENG,
+GB-LIV,,Liverpool,MTD,GB-ENG,Merseyside district
+GB-LND,,"London, City of",,GB-ENG,city corporation
+GB-LUT,,Luton,UTA,GB-ENG,
+GB-MAN,,Manchester,MTD,GB-ENG,Greater Manchester district
+GB-MDW,,Medway,UTA,GB-ENG,
+GB-MRT,,Merton,LBO,GB-ENG,
+GB-MDB,,Middlesbrough,UTA,GB-ENG,
+,MDX,Middlesex,,GB-ENG,Historic
+GB-MIK,,Milton Keynes,UTA,GB-ENG,
+GB-NET,,Newcastle upon Tyne,MTD,GB-ENG,Tyne & Wear district
+GB-NWM,,Newham,LBO,GB-ENG,
+GB-NFK,NFK,Norfolk,CTY,GB-ENG,
+GB-NEL,,North East Lincolnshire,UTA,GB-ENG,
+GB-NLN,,North Lincolnshire,UTA,GB-ENG,
+,NRY,North Riding Yorkshire,,GB-ENG,Historic
+GB-NSM,,North Somerset,UTA,GB-ENG,
+GB-NTY,,North Tyneside,MTD,GB-ENG,Tyne & Wear district
+GB-NYK,,North Yorkshire,CTY,GB-ENG,
+GB-NTH,NTH,Northamptonshire,CTY,GB-ENG,
+GB-NBL,NBL,Northumberland,UTA,GB-ENG,
+GB-NGM,,Nottingham,UTA,GB-ENG,
+GB-NTT,NTT,Nottinghamshire,CTY,GB-ENG,
+GB-OLD,,Oldham,MTD,GB-ENG,Greater Manchester district
+GB-OXF,OXF,Oxfordshire,CTY,GB-ENG,
+GB-PTE,,Peterborough,UTA,GB-ENG,
+GB-PLY,,Plymouth,UTA,GB-ENG,
+GB-POL,,Poole,UTA,GB-ENG,
+GB-POR,,Portsmouth,UTA,GB-ENG,
+GB-RDG,,Reading,UTA,GB-ENG,
+GB-RDB,,Redbridge,LBO,GB-ENG,
+GB-RCC,,Redcar and Cleveland,UTA,GB-ENG,
+GB-RIC,,Richmond upon Thames,LBO,GB-ENG,
+GB-RCH,,Rochdale,MTD,GB-ENG,Greater Manchester district
+GB-ROT,,Rotherham,MTD,GB-ENG,South Yorkshire district
+GB-RUT,RUT,Rutland,UTA,GB-ENG,
+GB-SLF,,Salford,MTD,GB-ENG,Greater Manchester district
+GB-SAW,,Sandwell,MTD,GB-ENG,West Midlands district
+GB-SFT,,Sefton,MTD,GB-ENG,Merseyside district
+GB-SHF,,Sheffield,MTD,GB-ENG,South Yorkshire district
+GB-SHR,SHR,Shropshire,UTA,GB-ENG,county
+GB-SLG,,Slough,UTA,GB-ENG,
+GB-SOL,,Solihull,MTD,GB-ENG,West Midlands district
+GB-SOM,SOM,Somerset,CTY,GB-ENG,
+GB-SGC,,South Gloucestershire,UTA,GB-ENG,
+GB-STY,,South Tyneside,MTD,GB-ENG,Tyne & Wear district
+GB-STH,,Southampton,UTA,GB-ENG,
+GB-SOS,,Southend-on-Sea,UTA,GB-ENG,
+GB-SWK,,Southwark,LBO,GB-ENG,
+GB-SHN,,St Helens,MTD,GB-ENG,Merseyside district
+GB-STS,STS,Staffordshire,CTY,GB-ENG,
+GB-SKP,,Stockport,MTD,GB-ENG,Greater Manchester district
+GB-STT,,Stockton-on-Tees,UTA,GB-ENG,
+GB-STE,,Stoke-on-Trent,UTA,GB-ENG,
+GB-SFK,SFK,Suffolk,CTY,GB-ENG,
+GB-SND,,Sunderland,MTD,GB-ENG,Tyne & Wear district
+GB-SRY,SRY,Surrey,CTY,GB-ENG,
+,SSX,Sussex,,GB-ENG,Historic
+GB-STN,,Sutton,LBO,GB-ENG,
+GB-SWD,,Swindon,UTA,GB-ENG,
+GB-TAM,,Tameside,MTD,GB-ENG,Greater Manchester district
+GB-TFW,,Telford and Wrekin,UTA,GB-ENG,
+GB-THR,,Thurrock,UTA,GB-ENG,
+GB-TOB,,Torbay,UTA,GB-ENG,
+GB-TWH,,Tower Hamlets,LBO,GB-ENG,
+GB-TRF,,Trafford,MTD,GB-ENG,Greater Manchester district
+GB-WKF,,Wakefield,MTD,GB-ENG,West Yorkshire district
+GB-WLL,,Walsall,MTD,GB-ENG,West Midlands district
+GB-WFT,,Waltham Forest,LBO,GB-ENG,
+GB-WND,,Wandsworth,LBO,GB-ENG,
+GB-WRT,,Warrington,UTA,GB-ENG,
+GB-WAR,WAR,Warwickshire,CTY,GB-ENG,
+GB-WBK,,West Berkshire,UTA,GB-ENG,
+,WRY,West Riding Yorkshire,,GB-ENG,Historic
+GB-WSX,,West Sussex,CTY,GB-ENG,
+GB-WSM,,Westminster,LBO,GB-ENG,
+,WES,Westmorland,,GB-ENG,Historic
+GB-WGN,,Wigan,MTD,GB-ENG,Greater Manchester district
+GB-WIL,WIL,Wiltshire,UTA,GB-ENG,
+GB-WNM,,Windsor and Maidenhead,UTA,GB-ENG,
+GB-WRL,,Wirral,MTD,GB-ENG,Merseyside district
+GB-WOK,,Wokingham,UTA,GB-ENG,
+GB-WLV,,Wolverhampton,MTD,GB-ENG,West Midlands district
+GB-WOR,WOR,Worcestershire,CTY,GB-ENG,
+GB-YOR,,York,UTA,GB-ENG,
+,YKS,Yorkshire,,GB-ENG,Historic
+GB-ANT,ANT,Antrim,,GB-NIR,
+GB-ARD,,Ards,,GB-NIR,district council area
+GB-ARM,ARM,Armagh,,GB-NIR,district council area
+GB-BLA,,Ballymena,,GB-NIR,district council area
+GB-BLY,,Ballymoney,,GB-NIR,district council area
+GB-BNB,,Banbridge,,GB-NIR,district council area
+GB-BFS,,Belfast,,GB-NIR,district council area
+GB-CKF,,Carrickfergus,,GB-NIR,district council area
+GB-CSR,,Castlereagh,,GB-NIR,district council area
+GB-CLR,,Coleraine,,GB-NIR,district council area
+GB-CKT,,Cookstown,,GB-NIR,district council area
+GB-CGV,,Craigavon,,GB-NIR,district council area
+GB-DRY,LDY,Derry,,GB-NIR,district council area; aka Londonderry
+GB-DOW,DOW,Down,,GB-NIR,district council area
+GB-DGN,TYR,Dungannon and South Tyrone,,GB-NIR,district council area
+GB-FER,FER,Fermanagh,,GB-NIR,district council area
+GB-LRN,,Larne,,GB-NIR,district council area
+GB-LMV,,Limavady,,GB-NIR,district council area
+GB-LSB,,Lisburn,,GB-NIR,district council area
+GB-MFT,,Magherafelt,,GB-NIR,district council area
+GB-MYL,,Moyle,,GB-NIR,district council area
+GB-NYM,,Newry and Mourne,,GB-NIR,district council area
+GB-NTA,,Newtownabbey,,GB-NIR,district council area
+GB-NAY,,North Ayrshire,,GB-NIR,district council area
+GB-NDN,,North Down,,GB-NIR,district council area
+GB-OMH,,Omagh,,GB-NIR,district council area
+GB-STB,,Strabane,,GB-NIR,district council area
 GB-ABE,,Aberdeen,,GB-SCT,
 GB-ABD,ABD,Aberdeenshire,,GB-SCT,
 GB-ANS,ANG,Angus,,GB-SCT,
+GB-AGB,,Argyll and Bute,,GB-SCT,aka Buteshire
 ,ARL,Argyllshire,,GB-SCT,Historic
 GB-AYR,AYR,Ayrshire,,GB-SCT,
 ,BAN,Banffshire,,GB-SCT,Historic. Now split between Aberdeenshire and Moray.
@@ -14,15 +204,18 @@ GB-DGY,,Dumfries and Galloway,,GB-SCT,aka Dunbartonshire
 ,DNB,Dunbartonshire,,GB-SCT,Historic. aka County of Dumbarton
 GB-DND,,Dundee,,GB-SCT,
 GB-EAY,,East Ayrshire,,GB-SCT,
+GB-EDU,,East Dunbartonshire,,GB-SCT,
 GB-ELN,ELM,East Lothian,,GB-SCT,
 GB-ERW,,East Renfrewshire,,GB-SCT,
 GB-EDH,,Edinburgh,,GB-SCT,
+GB-ELS,,Eilean Siar,,GB-SCT,
 ,ELG,Elginshire,,GB-SCT,Historic.
 GB-FAL,,Falkirk,,GB-SCT,
 GB-FIF,FIF,Fife,,GB-SCT,aka Fifeshire
 ,FOR,Forfarshire,,GB-SCT,Historic.
 GB-GLG,,Glasgow,,GB-SCT,
 GB-HLD,,Highland,,GB-SCT,
+GB-IVC,,Inverclyde,,GB-SCT,
 ,INV,Inverness-shire,,GB-SCT,Historic. aka County of Inverness
 ,KCD,Kincardineshire,,GB-SCT,Historic.
 ,KRS,Kinross-shire,,GB-SCT,Historic.
@@ -34,8 +227,8 @@ GB-MRY,MOR,Moray,,GB-SCT,aka Morayshire
 ,NAI,Nairnshire,,GB-SCT,Historic.
 GB-NLK,,North Lanarkshire,,GB-SCT,
 GB-ORK,ORK,Orkney Islands,,GB-SCT,
-GB-PKN,,Perth and Kinross,,GB-SCT,
 ,PEE,Peebleshire,,GB-SCT,Historic.
+GB-PKN,,Perth and Kinross,,GB-SCT,
 ,PER,Perthshire,,GB-SCT,Historic.
 GB-RFW,RFW,Renfrewshire,,GB-SCT,
 ,ROC,Ross and Cromarty,,GB-SCT,Historic.
@@ -47,214 +240,34 @@ GB-ZET,,Shetland Islands,,GB-SCT,
 GB-SAY,,South Ayrshire,,GB-SCT,
 GB-SLK,,South Lanarkshire,,GB-SCT,
 GB-STG,,Stirling,,GB-SCT,aka Stirlingshire
-,TDD,Tweedale,,GB-SCT,Historic.
 ,SUT,Sutherland,,GB-SCT,Historic.
+,TDD,Tweedale,,GB-SCT,Historic.
+GB-WDU,,West Dunbartonshire,,GB-SCT,
 GB-WLN,WLN,West Lothian,,GB-SCT,
 ,WIS,Western Isles,,GB-SCT,Historic.
 ,WIG,Wigtownshire,,GB-SCT,Historic. aka County of Wigtown
-GB-ANT,,Antrim,,,
-GB-ARD,,Ards,,,
-GB-AGB,,Argyll and Bute,,,aka Buteshire
-GB-ARM,,Armagh,,,
-GB-BLA,,Ballymena,,,
-GB-BLY,,Ballymoney,,,
-GB-BNB,,Banbridge,,,
-GB-BDG,,Barking and Dagenham,LBO,,
-GB-BNE,,Barnet,LBO,,
-GB-BNS,,Barnsley,,,South Yorkshire district
-GB-BAS,,Bath and North East Somerset,UTA,,
-GB-BDF,,Bedfordshire,,,county
-GB-BFS,,Belfast,,,
-GB-BEX,,Bexley,LBO,,
-GB-BIR,,Birmingham,,,West Midlands district
-GB-BBD,,Blackburn with Darwen,UTA,,
-GB-BPL,,Blackpool,UTA,,
-GB-BGW,,Blaenau Gwent,,,
-GB-BOL,,Bolton,,,Greater Manchester district
-GB-BMH,,Bournemouth,UTA,,
-GB-BRC,,Bracknell Forest,UTA,,
-GB-BRD,,Bradford,,,West Yorkshire district
-GB-BEN,,Brent,LBO,,
-GB-BGE,,Bridgend,,,
-GB-BNH,,Brighton and Hove,UTA,,
-GB-BST,,"Bristol, City of",UTA,,
-GB-BRY,,Bromley,LBO,,
-GB-BKM,,Buckinghamshire,,,county
-GB-BUR,,Bury,,,Greater Manchester district
-GB-CAY,,Caerphilly,,,
-GB-CLD,,Calderdale,,,West Yorkshire district
-GB-CAM,,Cambridgeshire,,,county
-GB-CMD,,Camden,LBO,,
-GB-CRF,,Cardiff,,,
-GB-CMN,,Carmarthenshire,,,
-GB-CKF,,Carrickfergus,,,
-GB-CSR,,Castlereagh,,,
-GB-CGN,,Ceredigion,,,
-GB-CHS,,Cheshire,,,county
-GB-CLR,,Coleraine,,,
-GB-CWY,,Conwy,,,
-GB-CKT,,Cookstown,,,
-GB-CON,,Cornwall,,,county
-GB-COV,,Coventry,,,West Midlands district
-GB-CGV,,Craigavon,,,
-GB-CRY,,Croydon,LBO,,
-GB-CMA,,Cumbria,,,county
-GB-DAL,,Darlington,UTA,,
-GB-DEN,,Denbighshire,,,
-GB-DER,,Derby,UTA,,
-GB-DBY,,Derbyshire,,,county
-GB-DRY,,Derry,,,
-GB-DEV,,Devon,,,county
-GB-DNC,,Doncaster,,,South Yorkshire district
-GB-DOR,,Dorset,,,county
-GB-DOW,,Down,,,
-GB-DUD,,Dudley,,,West Midlands district
-GB-DGN,,Dungannon and South Tyrone,,,
-GB-DUR,,Durham,,,county
-GB-EAL,,Ealing,LBO,,
-GB-EDU,,East Dunbartonshire,,,
-GB-ERY,,East Riding of Yorkshire,UTA,,
-GB-ESX,,East Sussex,,,county
-GB-ELS,,Eilean Siar,,,
-GB-ENF,,Enfield,LBO,,
-GB-ESS,,Essex,,,county
-GB-FER,,Fermanagh,,,
-GB-FLN,,Flintshire,,,
-GB-GAT,,Gateshead,,,Tyne & Wear district
-GB-GLS,,Gloucestershire,,,county
-GB-GRE,,Greenwich,LBO,,
-GB-GSY,,Guernsey,,,
-GB-GWN,,Gwynedd,,,
-GB-HCK,,Hackney,LBO,,
-GB-HAL,,Halton,UTA,,
-GB-HMF,,Hammersmith and Fulham,LBO,,
-GB-HAM,,Hampshire,,,county
-GB-HRY,,Haringey,LBO,,
-GB-HRW,,Harrow,LBO,,
-GB-HPL,,Hartlepool,UTA,,
-GB-HAV,,Havering,LBO,,
-GB-HEF,,"Herefordshire, County of",UTA,,
-GB-HRT,,Hertfordshire,,,county
-GB-HIL,,Hillingdon,LBO,,
-GB-HNS,,Hounslow,LBO,,
-GB-IVC,,Inverclyde,,,
-GB-AGY,,Isle of Anglesey,,,
-GB-IOW,,Isle of Wight,UTA,,
-GB-IOS,,Isles of Scilly,,,special area
-GB-ISL,,Islington,LBO,,
-GB-JSY,,Jersey,,,
-GB-KEC,,Kensington and Chelsea,LBO,,
-GB-KEN,,Kent,,,county
-GB-KHL,,"Kingston upon Hull, City of",UTA,,
-GB-KTT,,Kingston upon Thames,LBO,,
-GB-KIR,,Kirklees,,,West Yorkshire district
-GB-KWL,,Knowsley,,,Merseyside district
-GB-LBH,,Lambeth,LBO,,
-GB-LAN,,Lancashire,,,county
-GB-LRN,,Larne,,,
-GB-LDS,,Leeds,,,West Yorkshire district
-GB-LCE,,Leicester,UTA,,
-GB-LEC,,Leicestershire,,,county
-GB-LEW,,Lewisham,LBO,,
-GB-LMV,,Limavady,,,
-GB-LIN,,Lincolnshire,,,county
-GB-LSB,,Lisburn,,,
-GB-LIV,,Liverpool,,,Merseyside district
-GB-LND,,"London, City of",LBO,,
-GB-LUT,,Luton,UTA,,
-GB-MFT,,Magherafelt,,,
-GB-MAN,,Manchester,,,Greater Manchester district
-GB-MDW,,Medway,UTA,,
-GB-MTY,,Merthyr Tydfil,,,
-GB-MRT,,Merton,LBO,,
-GB-MDB,,Middlesbrough,UTA,,
-GB-MIK,,Milton Keynes,UTA,,
-GB-MON,,Monmouthshire,,,
-GB-MYL,,Moyle,,,
-GB-NTL,,Neath Port Talbot,,,
-GB-NET,,Newcastle upon Tyne,,,Tyne & Wear district
-GB-NWM,,Newham,LBO,,
-GB-NWP,,Newport,,,
-GB-NYM,,Newry and Mourne,,,
-GB-NTA,,Newtownabbey,,,
-GB-NFK,,Norfolk,,,county
-GB-NAY,,North Ayrshire,,,
-GB-NDN,,North Down,,,
-GB-NEL,,North East Lincolnshire,UTA,,
-GB-NLN,,North Lincolnshire,UTA,,
-GB-NSM,,North Somerset,UTA,,
-GB-NTY,,North Tyneside,,,Tyne & Wear district
-GB-NYK,,North Yorkshire,,,county
-GB-NTH,,Northamptonshire,,,county
-GB-NBL,,Northumberland,,,county
-GB-NGM,,Nottingham,UTA,,
-GB-NTT,,Nottinghamshire,,,county
-GB-OLD,,Oldham,,,Greater Manchester district
-GB-OMH,,Omagh,,,
-GB-OXF,,Oxfordshire,,,county
-GB-PEM,,Pembrokeshire,,,
-GB-PTE,,Peterborough,UTA,,
-GB-PLY,,Plymouth,UTA,,
-GB-POL,,Poole,UTA,,
-GB-POR,,Portsmouth,UTA,,
-GB-POW,,Powys,,,
-GB-RDG,,Reading,UTA,,
-GB-RDB,,Redbridge,LBO,,
-GB-RCC,,Redcar and Cleveland,UTA,,
-GB-RCT,,Rhondda Cynon Taf,,,
-GB-RIC,,Richmond upon Thames,,,
-GB-RCH,,Rochdale,,,Greater Manchester district
-GB-ROT,,Rotherham,,,South Yorkshire district
-GB-RUT,,Rutland,UTA,,
-GB-SLF,,Salford,,,Greater Manchester district
-GB-SAW,,Sandwell,,,West Midlands district
-GB-SFT,,Sefton,,,Merseyside district
-GB-SHF,,Sheffield,,,South Yorkshire district
-GB-SHR,,Shropshire,,,county
-GB-SLG,,Slough,UTA,,
-GB-SOL,,Solihull,,,West Midlands district
-GB-SOM,,Somerset,,,county
-GB-SGC,,South Gloucestershire,UTA,,
-GB-STY,,South Tyneside,,,Tyne & Wear district
-GB-STH,,Southampton,UTA,,
-GB-SOS,,Southend-on-Sea,UTA,,
-GB-SWK,,Southwark,LBO,,
-GB-SHN,,St Helens,,,Merseyside district
-GB-STS,,Staffordshire,,,county
-GB-SKP,,Stockport,,,Greater Manchester district
-GB-STT,,Stockton-on-Tees,UTA,,
-GB-STE,,Stoke-on-Trent,UTA,,
-GB-STB,,Strabane,,,
-GB-SFK,,Suffolk,,,county
-GB-SND,,Sunderland,,,Tyne & Wear district
-GB-SRY,,Surrey,,,county
-GB-STN,,Sutton,LBO,,
-GB-SWA,,Swansea,,,
-GB-SWD,,Swindon,UTA,,
-GB-TAM,,Tameside,,,Greater Manchester district
-GB-TFW,,Telford and Wrekin,UTA,,
-GB-THR,,Thurrock,UTA,,
-GB-TOB,,Torbay,UTA,,
-GB-TOF,,Torfaen,,,
-GB-TWH,,Tower Hamlets,LBO,,
-GB-TRF,,Trafford,,,Greater Manchester district
-GB-VGL,,Vale of Glamorgan,,,
-GB-WKF,,Wakefield,,,West Yorkshire district
-GB-WLL,,Walsall,,,West Midlands district
-GB-WFT,,Waltham Forest,LBO,,
-GB-WND,,Wandsworth,LBO,,
-GB-WRT,,Warrington,UTA,,
-GB-WAR,,Warwickshire,,,county
-GB-WBK,,West Berkshire,UTA,,
-GB-WDU,,West Dunbartonshire,,,
-GB-WSX,,West Sussex,,,county
-GB-WSM,,Westminster,LBO,,
-GB-WGN,,Wigan,,,Greater Manchester district
-GB-WIL,,Wiltshire,,,county
-GB-WNM,,Windsor and Maidenhead,UTA,,
-GB-WRL,,Wirral,,,Merseyside district
-GB-WOK,,Wokingham,UTA,,
-GB-WLV,,Wolverhampton,,,West Midlands district
-GB-WOR,,Worcestershire,,,county
-GB-WRX,,Wrexham,,,
-GB-YOR,,York,UTA,,
+GB-BGW,,Blaenau Gwent,UTA,GB-WLS,
+GB-BGE,,Bridgend,UTA,GB-WLS,
+GB-CAY,,Caerphilly,UTA,GB-WLS,
+GB-CRF,,Cardiff,UTA,GB-WLS,
+GB-CMN,,Carmarthenshire,UTA,GB-WLS,
+GB-CGN,,Ceredigion,UTA,GB-WLS,
+GB-CWY,,Conwy,UTA,GB-WLS,
+GB-DEN,,Denbighshire,UTA,GB-WLS,
+GB-FLN,,Flintshire,UTA,GB-WLS,
+GB-GWN,,Gwynedd,UTA,GB-WLS,
+GB-AGY,,Isle of Anglesey,UTA,GB-WLS,
+GB-MTY,,Merthyr Tydfil,UTA,GB-WLS,
+GB-MON,,Monmouthshire,UTA,GB-WLS,
+GB-NTL,,Neath Port Talbot,UTA,GB-WLS,
+GB-NWP,,Newport,UTA,GB-WLS,
+GB-PEM,,Pembrokeshire,UTA,GB-WLS,
+GB-POW,,Powys,UTA,GB-WLS,
+GB-RCT,,Rhondda Cynon Taf,UTA,GB-WLS,
+GB-SWA,,Swansea,UTA,GB-WLS,
+GB-TOF,,Torfaen,UTA,GB-WLS,
+GB-VGL,,Vale of Glamorgan,UTA,GB-WLS,
+GB-WRX,,Wrexham,UTA,GB-WLS,
+GG,,Guernsey,,,Was GB-GSY
+IM,,Isle of Man,,,Was GB-IOM
+JE,,Jersey,,,Was GB-JSY

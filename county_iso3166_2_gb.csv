@@ -268,6 +268,7 @@ GB-SWA,,Swansea,UTA,GB-WLS,
 GB-TOF,,Torfaen,UTA,GB-WLS,
 GB-VGL,,Vale of Glamorgan,UTA,GB-WLS,
 GB-WRX,,Wrexham,UTA,GB-WLS,
-GG,,Guernsey,,,Was GB-GSY
-IM,,Isle of Man,,,Was GB-IOM
-JE,,Jersey,,,Was GB-JSY
+,ALD,Alderney,,,Historic
+GG,GSY,Guernsey,,,Was GB-GSY
+IM,IOM,Isle of Man,,,Was GB-IOM
+JE,JER,Jersey,,,Was GB-JSY

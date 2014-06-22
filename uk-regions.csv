@@ -1,16 +1,20 @@
-region_code,region_name
-NORTHEAST,North East
-NORTHWEST,North West
-YORKHUMB,Yorkshire and the Humber
-EASTMID,East Midlands
-WESTMID,West Midlands
-EAST,East of England
-LONDON,London
-SOUTHWEST,South West
-SOUTHEAST,South East
-NI,Northern Ireland
-GGY,Guernsey
-IMN,Isle of Man
-JEY,Jersey
-WALES,Wales
-SCOT,Scotland
+region_code,ons_code,ons_letter,region_name
+NORTHEAST,E12000001,A,North East
+NORTHWEST,E12000002,B,North West
+YORKHUMB,E12000003,D,Yorkshire and the Humber
+EASTMID,E12000004,E,East Midlands
+WESTMID,E12000005,F,West Midlands
+EAST,E12000006,G,East of England
+LONDON,E12000007,H,London
+SOUTHEAST,E12000008,J,South East
+SOUTHWEST,E12000009,K,South West
+NI,N92000002,,Northern Ireland
+GGY,,,Guernsey
+IMN,,,Isle of Man
+JEY,,,Jersey
+WALES,W92000004,,Wales
+SCOT,S92000003,,Scotland
+,E92000001,,England
+,K02000001,,United Kingdom
+,K03000001,,Great Britain
+,K04000001,,England and Wales

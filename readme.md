@@ -51,3 +51,11 @@ is being made to clean up these two aspects at this time. My main concern was ma
 regions and postcodes to a grid reference for a job board, so people can search for jobs within
 a radius of a given point (the job seeker's postcode or town).
 
+It is not clear where the grid references (easting/northing and lat/long) for the postcode areas
+comes from. The OSGB publishes the easting/northing down to 1m for each full postcode, so the
+mean position can be calculated to any higher-level collection of postcodes. For example, the
+mean locations of "NE26 2**", "NE26" and "NE". I suspect this is the data that is logged here,
+which can probabaly be calculated by script and supplied as a series of CSV files. I just want
+to know the source and whether any of this data can be regenerated when source data is updated.
+
+

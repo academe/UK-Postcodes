@@ -8,7 +8,7 @@ It is not clear whether the Latitude and Longitude coordinates use the Airy or t
 and datum. An action to find out and make it clear as necessary. The WSG85 coordinates will
 ultimately be in this set.
 
-Some notes on the columns:
+Some notes on the columns of postcodes.csv:
 
 * postcode The outward part of the postcode.
 * easting The numeric eathing value (whole metres from the false origin, up to 7 digits)

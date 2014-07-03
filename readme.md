@@ -58,4 +58,4 @@ mean locations of "NE26 2**", "NE26" and "NE". I suspect this is the data that i
 which can probabaly be calculated by script and supplied as a series of CSV files. I just want
 to know the source and whether any of this data can be regenerated when source data is updated.
 
-
+ons_code and gss_code columns are synonymous. ONS uses GSS Codes, also known as ONS codes.

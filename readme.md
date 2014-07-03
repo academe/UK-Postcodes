@@ -64,3 +64,7 @@ GSS codes, so we will use the GSS term where possible.
 
 The six metropolitan districts are also known as metropolitan counties. Terminology tends to
 change depending on where you look.
+
+The data in england-metropolitan-boroughs.csv has been merged into county_iso3166_2_gb.csv
+Further GSS codes will be added to county_iso3166_2_gb.csv where available - see
+http://en.wikipedia.org/wiki/ONS_coding_system

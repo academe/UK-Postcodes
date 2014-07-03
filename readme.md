@@ -59,3 +59,5 @@ which can probabaly be calculated by script and supplied as a series of CSV file
 to know the source and whether any of this data can be regenerated when source data is updated.
 
 ons_code and gss_code columns are synonymous. ONS uses GSS Codes, also known as ONS codes.
+GSS seems to be a newer name, and will save confusion between the old ONS codes and the new
+GSS codes, so we will use the GSS term where possible.

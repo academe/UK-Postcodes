@@ -1,10 +1,13 @@
-CTY,County
-DIS,District
-DIW,District Ward
-LBO,London Borough
-LBW,London Borough Ward
-MTD,Metropolitan District
-MTW,Metropolitan District Ward
-UTA,Unitary Authority
-UTE,Unitary Authority Electoral Division
-UTW,Unitary Authority Ward
+Code,Name,Notes
+CTY,County,"27 non-metropolitan counties, divided into 201 districts"
+DIS,District,201 districts
+DIW,District Ward,(not usedin this dataset)
+LBO,London Borough,32 London boroughs
+LBW,London Borough Ward,(not usedin this dataset)
+MTD,Metropolitan District,6 metropolitan counties are divided into 36 metropolitan districts
+MTW,Metropolitan District Ward,(not usedin this dataset)
+UTA,Unitary Authority,56 unitary authorities have their own power separate from the counties they are in
+UTE,Unitary Authority Electoral Division,(not usedin this dataset)
+UTW,Unitary Authority Ward,(not usedin this dataset)
+MTC,Metropolitan County,"Not an official OS code, but we will use it for the 6 metropolitan counties"
+RGN,Region,Not an official OS code

@@ -1,0 +1,7 @@
+ons_code,gss_code,district_name,borough_count,district_population,region_gss_code
+2A,E11000001,Greater Manchester,10,2573200,E12000002
+2B,E11000002,Merseyside,5,1365000,E12000002
+2C,E11000003,South Yorkshire,4,1290000,E12000003
+2D,E11000004,Tyne and Wear,5,1089400,E12000001
+2E,E11000005,West Midlands,7,2591300,E12000005
+2F,E11000006,West Yorkshire,5,2161200,E12000003

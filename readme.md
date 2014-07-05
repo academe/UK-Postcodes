@@ -77,3 +77,7 @@ References
   but not the political-only or health-related areas (such as wards and NHS regions) at this stage.
 * http://en.wikipedia.org/wiki/ONS_coding_system  
   Overview of the coding system that we afre pulling in, with the older OS and ISO coding systems.
+* http://www.doogal.co.uk/  
+  Awesome combination of free OS and NGS data. This is what the government should have done with
+  the data, and this site embarrassingly shows them up. No idea why it has taken me so long to find
+  this site.

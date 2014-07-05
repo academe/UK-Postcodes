@@ -68,3 +68,12 @@ change depending on where you look.
 The data in england-metropolitan-boroughs.csv has been merged into county_iso3166_2_gb.csv
 Further GSS codes will be added to county_iso3166_2_gb.csv where available - see
 http://en.wikipedia.org/wiki/ONS_coding_system
+
+References
+----------
+
+* http://www.statistics.gov.uk/hub/government-statistical-service/  
+  Government Statistical Service - we are drawing on codes used to define geographic areas,
+  but not the political-only or health-related areas (such as wards and NHS regions) at this stage.
+* http://en.wikipedia.org/wiki/ONS_coding_system  
+  Overview of the coding system that we afre pulling in, with the older OS and ISO coding systems.
